@@ -1,8 +1,8 @@
-package dip.b;
+package dip.g;
 
 public class Manager {
 
-    public void manage(Worker worker) {
+    public void manage(Workable worker) {
         worker.work();
     }
 

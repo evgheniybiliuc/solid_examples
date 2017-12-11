@@ -2,7 +2,7 @@ package ocp.b.shape;
 
 public class Rectangle implements Shape {
 
-    private final Type type = Type.RECTANGLE;;
+    private final Type type = Type.RECTANGLE;
 
 
 

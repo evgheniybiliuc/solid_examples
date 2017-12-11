@@ -3,8 +3,7 @@ package ocp.b.shape;
 
 public class Circle implements Shape {
 
-    private Type type = Type.CIRCLE;;
-
+    private Type type = Type.CIRCLE;
 
 
     @Override

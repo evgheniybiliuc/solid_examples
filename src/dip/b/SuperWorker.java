@@ -1,7 +1,7 @@
 package dip.b;
 
 public class SuperWorker {
-    public void worker(){
+    public void work(){
         System.out.println("Working much more....");
     }
 }
